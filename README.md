@@ -15,4 +15,4 @@ Description of the Files in this repo...
 
 Thank you!
 
-contac: s.ullah@nih.org.pk
+Contact: s.ullah@nih.org.pk
